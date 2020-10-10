@@ -59,7 +59,7 @@ class SPPLayer(torch.nn.Module):
         return x_flatten
 
 
-x = cv2.imread('bus.jpg') # 导入图片或者特征图均可
+x = cv2.imread('bus.jpg') # 导入图片或者特征图均可,这里把图片当成特征图看待
 
 spp = SPPLayer(4, pool_type='max_pool') # 初始化
 x_spp = spp.forward(x) # 处理数据
