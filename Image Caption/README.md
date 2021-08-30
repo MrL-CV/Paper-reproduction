@@ -18,6 +18,10 @@ This project is implementated by TensorFlow 1.14.x and keras, Finished in 2019.Y
 ### Image Caption on COCO validation
 ![](bus.jpg)
 ![](bus_out.jpg)
+![](food.jpg)
+![](food_out.jpg)
+![](people.jpg)
+![](people_out.jpg)
 
 ## Use the Caption Systeam
 
