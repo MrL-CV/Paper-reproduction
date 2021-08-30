@@ -15,7 +15,7 @@ This project is implementated by TensorFlow 1.14.x and keras, Finished in 2019.Y
 
 ## Main results
 
-### Image Caption on COCO validation
+### Image Caption on COCO Pictures
 ![](bus.jpg)
 ![](bus_out.jpg)
 ![](food.jpg)
