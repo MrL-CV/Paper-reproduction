@@ -26,7 +26,6 @@ Befor use you must train the model yourself, run(remember to change the path tha
 ~~~
 python Inception_GRU_train.py or VGG16_GRU_train.py
 ~~~
-We provide example images in `CenterNet_ROOT/images/` (from [Detectron](https://github.com/facebookresearch/Detectron/tree/master/demo)). If set up correctly, the output should look like
 
 For test, run     
 
